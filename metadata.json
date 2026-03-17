@@ -1,0 +1,5 @@
+{
+  "name": "AI Financial Intelligence Hub",
+  "description": "Real-time dashboard for USD/KRW exchange rate, International Oil Prices (WTI, Dubai, Brent), and KOSPI index using Gemini AI with Google Search.",
+  "requestFramePermissions": []
+}
