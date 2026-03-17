@@ -591,7 +591,7 @@ export default function App() {
           </div>
         </div>
         <div className="text-[10px] uppercase tracking-widest opacity-40 text-center md:text-right">
-          © 2026AI Financial Intelligence Hub • {t.source}
+          © 2026 AI Financial Intelligence Hub • {t.source}
         </div>
       </footer>
       </div>
